@@ -1,6 +1,4 @@
-{
-  {
-  "models": [
+[
     {
       "name": "BERT",
       "creator": "Google",
@@ -128,6 +126,3 @@
       "cover_image_url": "https://example.com/dalle_cover_image.jpg"
     }
   ]
-}
-
-}
