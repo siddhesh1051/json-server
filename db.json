@@ -1,11 +1,133 @@
 {
-  "posts": [
+  {
+  "models": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "BERT",
+      "creator": "Google",
+      "tag": "NLP",
+      "versions_available": ["BERT-base", "BERT-large"],
+      "pricing": ["Free", "Free"],
+      "profile_image_url": "https://example.com/bert_profile_image.jpg",
+      "cover_image_url": "https://example.com/bert_cover_image.jpg"
+    },
+    {
+      "name": "YOLO",
+      "creator": "Joseph Redmon",
+      "tag": "Computer Vision",
+      "versions_available": ["YOLOv3", "YOLOv4"],
+      "pricing": ["Free", "Paid"],
+      "profile_image_url": "https://example.com/yolo_profile_image.jpg",
+      "cover_image_url": "https://example.com/yolo_cover_image.jpg"
+    },
+    {
+      "name": "DeepDream",
+      "creator": "Google",
+      "tag": "Image",
+      "versions_available": ["DeepDream"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/deepdream_profile_image.jpg",
+      "cover_image_url": "https://example.com/deepdream_cover_image.jpg"
+    },
+    {
+      "name": "CycleGAN",
+      "creator": "Jun-Yan Zhu",
+      "tag": "Image",
+      "versions_available": ["CycleGAN"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/cyclegan_profile_image.jpg",
+      "cover_image_url": "https://example.com/cyclegan_cover_image.jpg"
+    },
+    {
+      "name": "GPT-2",
+      "creator": "OpenAI",
+      "tag": "NLP",
+      "versions_available": ["GPT-2.5"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/gpt2_profile_image.jpg",
+      "cover_image_url": "https://example.com/gpt2_cover_image.jpg"
+    },
+    {
+      "name": "AlphaGo",
+      "creator": "DeepMind",
+      "tag": "Gaming",
+      "versions_available": ["AlphaGo Zero", "AlphaZero"],
+      "pricing": ["Free", "Free"],
+      "profile_image_url": "https://example.com/alphago_profile_image.jpg",
+      "cover_image_url": "https://example.com/alphago_cover_image.jpg"
+    },
+    {
+      "name": "Tesseract",
+      "creator": "Google",
+      "tag": "OCR",
+      "versions_available": ["Tesseract-OCR"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/tesseract_profile_image.jpg",
+      "cover_image_url": "https://example.com/tesseract_cover_image.jpg"
+    },
+    {
+      "name": "WaveNet",
+      "creator": "DeepMind",
+      "tag": "Speech",
+      "versions_available": ["WaveNet"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/wavenet_profile_image.jpg",
+      "cover_image_url": "https://example.com/wavenet_cover_image.jpg"
+    },
+    {
+      "name": "OpenPose",
+      "creator": "Carnegie Mellon University",
+      "tag": "Pose Estimation",
+      "versions_available": ["OpenPose"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/openpose_profile_image.jpg",
+      "cover_image_url": "https://example.com/openpose_cover_image.jpg"
+    },
+    {
+      "name": "FastText",
+      "creator": "Facebook",
+      "tag": "NLP",
+      "versions_available": ["FastText"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/fasttext_profile_image.jpg",
+      "cover_image_url": "https://example.com/fasttext_cover_image.jpg"
+    },
+    {
+      "name": "Pix2Pix",
+      "creator": "Phillip Isola",
+      "tag": "Image",
+      "versions_available": ["Pix2Pix"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/pix2pix_profile_image.jpg",
+      "cover_image_url": "https://example.com/pix2pix_cover_image.jpg"
+    },
+    {
+      "name": "VGG16",
+      "creator": "Visual Geometry Group (VGG)",
+      "tag": "Computer Vision",
+      "versions_available": ["VGG16"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/vgg16_profile_image.jpg",
+      "cover_image_url": "https://example.com/vgg16_cover_image.jpg"
+    },
+    {
+      "name": "DeepFace",
+      "creator": "Facebook",
+      "tag": "Image",
+      "versions_available": ["DeepFace"],
+      "pricing": ["Free"],
+      "profile_image_url": "https://example.com/deepface_profile_image.jpg",
+      "cover_image_url": "https://example.com/deepface_cover_image.jpg"
+    },
+    {
+      "name": "DALL-E",
+      "creator": "OpenAI",
+      "tag": "Image",
+      "versions_available": ["DALL-E"],
+      "pricing": ["Paid"],
+      "profile_image_url": "https://example.com/dalle_profile_image.jpg",
+      "cover_image_url": "https://example.com/dalle_cover_image.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+}
+
 }
