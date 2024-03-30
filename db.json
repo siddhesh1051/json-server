@@ -10,7 +10,8 @@
       "profile_image_url": "https://example.com/bert_profile_image.jpg",
       "cover_image_url": "https://example.com/bert_cover_image.jpg",
       "likes": 785,
-      "views": 15234
+      "views": 15234,
+      "description": "NLP model for language understanding."
     },
     {
       "id": "2",
@@ -22,7 +23,8 @@
       "profile_image_url": "https://example.com/yolo_profile_image.jpg",
       "cover_image_url": "https://example.com/yolo_cover_image.jpg",
       "likes": 620,
-      "views": 11250
+      "views": 11250,
+      "description": "Real-time object detection for images."
     },
     {
       "id": "3",
@@ -34,7 +36,8 @@
       "profile_image_url": "https://example.com/deepdream_profile_image.jpg",
       "cover_image_url": "https://example.com/deepdream_cover_image.jpg",
       "likes": 370,
-      "views": 7800
+      "views": 7800,
+      "description": "Image generation with surrealistic aesthetics."
     },
     {
       "id": "4",
@@ -46,7 +49,8 @@
       "profile_image_url": "https://example.com/cyclegan_profile_image.jpg",
       "cover_image_url": "https://example.com/cyclegan_cover_image.jpg",
       "likes": 820,
-      "views": 15500
+      "views": 15500,
+      "description": "Image-to-image translation for artistic transformation."
     },
     {
       "id": "5",
@@ -58,7 +62,8 @@
       "profile_image_url": "https://example.com/gpt2_profile_image.jpg",
       "cover_image_url": "https://example.com/gpt2_cover_image.jpg",
       "likes": 520,
-      "views": 8900
+      "views": 8900,
+      "description": "Text generation with diverse applications."
     },
     {
       "id": "6",
@@ -70,7 +75,8 @@
       "profile_image_url": "https://example.com/alphago_profile_image.jpg",
       "cover_image_url": "https://example.com/alphago_cover_image.jpg",
       "likes": 420,
-      "views": 7000
+      "views": 7000,
+      "description": "AI for mastering the game Go."
     },
     {
       "id": "7",
@@ -82,7 +88,8 @@
       "profile_image_url": "https://example.com/tesseract_profile_image.jpg",
       "cover_image_url": "https://example.com/tesseract_cover_image.jpg",
       "likes": 670,
-      "views": 12000
+      "views": 12000,
+      "description": "OCR engine for text recognition."
     },
     {
       "id": "8",
@@ -94,7 +101,8 @@
       "profile_image_url": "https://example.com/wavenet_profile_image.jpg",
       "cover_image_url": "https://example.com/wavenet_cover_image.jpg",
       "likes": 780,
-      "views": 16800
+      "views": 16800,
+      "description": "Neural network for high-quality speech synthesis."
     },
     {
       "id": "9",
@@ -106,7 +114,8 @@
       "profile_image_url": "https://example.com/openpose_profile_image.jpg",
       "cover_image_url": "https://example.com/openpose_cover_image.jpg",
       "likes": 250,
-      "views": 5800
+      "views": 5800,
+      "description": "Human pose estimation in images."
     },
     {
       "id": "10",
@@ -118,7 +127,8 @@
       "profile_image_url": "https://example.com/fasttext_profile_image.jpg",
       "cover_image_url": "https://example.com/fasttext_cover_image.jpg",
       "likes": 550,
-      "views": 9500
+      "views": 9500,
+      "description": "Library for efficient text classification."
     },
     {
       "id": "11",
@@ -130,7 +140,8 @@
       "profile_image_url": "https://example.com/pix2pix_profile_image.jpg",
       "cover_image_url": "https://example.com/pix2pix_cover_image.jpg",
       "likes": 430,
-      "views": 7400
+      "views": 7400,
+      "description": "Image-to-image translation for various tasks."
     },
     {
       "id": "12",
@@ -142,7 +153,8 @@
       "profile_image_url": "https://example.com/vgg16_profile_image.jpg",
       "cover_image_url": "https://example.com/vgg16_cover_image.jpg",
       "likes": 890,
-      "views": 17800
+      "views": 17800,
+      "description": "CNN model for image classification."
     },
     {
       "id": "13",
@@ -154,7 +166,8 @@
       "profile_image_url": "https://example.com/deepface_profile_image.jpg",
       "cover_image_url": "https://example.com/deepface_cover_image.jpg",
       "likes": 300,
-      "views": 6500
+      "views": 6500,
+      "description": "Face recognition and analysis."
     },
     {
       "id": "14",
@@ -166,7 +179,8 @@
       "profile_image_url": "https://example.com/dalle_profile_image.jpg",
       "cover_image_url": "https://example.com/dalle_cover_image.jpg",
       "likes": 720,
-      "views": 13200
+      "views": 13200,
+      "description": "AI for generating images from textual descriptions."
     }
   ]
 }
