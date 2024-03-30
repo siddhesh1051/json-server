@@ -1,130 +1,172 @@
 {
   "models": [
     {
+      "id": "1",
       "name": "BERT",
       "creator": "Google",
-      "tag": "NLP",
+      "tag": "Text Generation",
       "versions_available": ["BERT-base", "BERT-large"],
       "pricing": ["Free", "Free"],
       "profile_image_url": "https://example.com/bert_profile_image.jpg",
-      "cover_image_url": "https://example.com/bert_cover_image.jpg"
+      "cover_image_url": "https://example.com/bert_cover_image.jpg",
+      "likes": 785,
+      "views": 15234
     },
     {
+      "id": "2",
       "name": "YOLO",
       "creator": "Joseph Redmon",
       "tag": "Computer Vision",
       "versions_available": ["YOLOv3", "YOLOv4"],
       "pricing": ["Free", "Paid"],
       "profile_image_url": "https://example.com/yolo_profile_image.jpg",
-      "cover_image_url": "https://example.com/yolo_cover_image.jpg"
+      "cover_image_url": "https://example.com/yolo_cover_image.jpg",
+      "likes": 620,
+      "views": 11250
     },
     {
+      "id": "3",
       "name": "DeepDream",
       "creator": "Google",
-      "tag": "Image",
+      "tag": "Image Generation",
       "versions_available": ["DeepDream"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/deepdream_profile_image.jpg",
-      "cover_image_url": "https://example.com/deepdream_cover_image.jpg"
+      "cover_image_url": "https://example.com/deepdream_cover_image.jpg",
+      "likes": 370,
+      "views": 7800
     },
     {
+      "id": "4",
       "name": "CycleGAN",
       "creator": "Jun-Yan Zhu",
-      "tag": "Image",
+      "tag": "Image Generation",
       "versions_available": ["CycleGAN"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/cyclegan_profile_image.jpg",
-      "cover_image_url": "https://example.com/cyclegan_cover_image.jpg"
+      "cover_image_url": "https://example.com/cyclegan_cover_image.jpg",
+      "likes": 820,
+      "views": 15500
     },
     {
+      "id": "5",
       "name": "GPT-2",
       "creator": "OpenAI",
-      "tag": "NLP",
+      "tag": "Text Generation",
       "versions_available": ["GPT-2.5"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/gpt2_profile_image.jpg",
-      "cover_image_url": "https://example.com/gpt2_cover_image.jpg"
+      "cover_image_url": "https://example.com/gpt2_cover_image.jpg",
+      "likes": 520,
+      "views": 8900
     },
     {
+      "id": "6",
       "name": "AlphaGo",
       "creator": "DeepMind",
       "tag": "Gaming",
       "versions_available": ["AlphaGo Zero", "AlphaZero"],
       "pricing": ["Free", "Free"],
       "profile_image_url": "https://example.com/alphago_profile_image.jpg",
-      "cover_image_url": "https://example.com/alphago_cover_image.jpg"
+      "cover_image_url": "https://example.com/alphago_cover_image.jpg",
+      "likes": 420,
+      "views": 7000
     },
     {
+      "id": "7",
       "name": "Tesseract",
       "creator": "Google",
       "tag": "OCR",
       "versions_available": ["Tesseract-OCR"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/tesseract_profile_image.jpg",
-      "cover_image_url": "https://example.com/tesseract_cover_image.jpg"
+      "cover_image_url": "https://example.com/tesseract_cover_image.jpg",
+      "likes": 670,
+      "views": 12000
     },
     {
+      "id": "8",
       "name": "WaveNet",
       "creator": "DeepMind",
       "tag": "Speech",
       "versions_available": ["WaveNet"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/wavenet_profile_image.jpg",
-      "cover_image_url": "https://example.com/wavenet_cover_image.jpg"
+      "cover_image_url": "https://example.com/wavenet_cover_image.jpg",
+      "likes": 780,
+      "views": 16800
     },
     {
+      "id": "9",
       "name": "OpenPose",
       "creator": "Carnegie Mellon University",
       "tag": "Pose Estimation",
       "versions_available": ["OpenPose"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/openpose_profile_image.jpg",
-      "cover_image_url": "https://example.com/openpose_cover_image.jpg"
+      "cover_image_url": "https://example.com/openpose_cover_image.jpg",
+      "likes": 250,
+      "views": 5800
     },
     {
+      "id": "10",
       "name": "FastText",
       "creator": "Facebook",
-      "tag": "NLP",
+      "tag": "Text Generation",
       "versions_available": ["FastText"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/fasttext_profile_image.jpg",
-      "cover_image_url": "https://example.com/fasttext_cover_image.jpg"
+      "cover_image_url": "https://example.com/fasttext_cover_image.jpg",
+      "likes": 550,
+      "views": 9500
     },
     {
+      "id": "11",
       "name": "Pix2Pix",
       "creator": "Phillip Isola",
-      "tag": "Image",
+      "tag": "Image Generation",
       "versions_available": ["Pix2Pix"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/pix2pix_profile_image.jpg",
-      "cover_image_url": "https://example.com/pix2pix_cover_image.jpg"
+      "cover_image_url": "https://example.com/pix2pix_cover_image.jpg",
+      "likes": 430,
+      "views": 7400
     },
     {
+      "id": "12",
       "name": "VGG16",
       "creator": "Visual Geometry Group (VGG)",
       "tag": "Computer Vision",
       "versions_available": ["VGG16"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/vgg16_profile_image.jpg",
-      "cover_image_url": "https://example.com/vgg16_cover_image.jpg"
+      "cover_image_url": "https://example.com/vgg16_cover_image.jpg",
+      "likes": 890,
+      "views": 17800
     },
     {
+      "id": "13",
       "name": "DeepFace",
       "creator": "Facebook",
-      "tag": "Image",
+      "tag": "Image Generation",
       "versions_available": ["DeepFace"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/deepface_profile_image.jpg",
-      "cover_image_url": "https://example.com/deepface_cover_image.jpg"
+      "cover_image_url": "https://example.com/deepface_cover_image.jpg",
+      "likes": 300,
+      "views": 6500
     },
     {
+      "id": "14",
       "name": "DALL-E",
       "creator": "OpenAI",
-      "tag": "Image",
+      "tag": "Image Generation",
       "versions_available": ["DALL-E"],
       "pricing": ["Paid"],
       "profile_image_url": "https://example.com/dalle_profile_image.jpg",
-      "cover_image_url": "https://example.com/dalle_cover_image.jpg"
+      "cover_image_url": "https://example.com/dalle_cover_image.jpg",
+      "likes": 720,
+      "views": 13200
     }
   ]
 }
