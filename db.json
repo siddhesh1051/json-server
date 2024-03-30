@@ -89,7 +89,7 @@
       ],
       "profile_image_url": "https://example.com/gpt2_profile_image.jpg",
       "cover_image_url": "https://example.com/gpt2_cover_image.jpg",
-      "likes": 740,
+      "likes": 1056,
       "views": 8900,
       "description": "Text generation with diverse applications."
     },
@@ -246,7 +246,7 @@
       ],
       "profile_image_url": "https://example.com/dalle_profile_image.jpg",
       "cover_image_url": "https://example.com/dalle_cover_image.jpg",
-      "likes": 720,
+      "likes": 1048,
       "views": 13200,
       "description": "AI for generating images from textual descriptions."
     }
