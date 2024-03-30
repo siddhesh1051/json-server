@@ -107,8 +107,8 @@
     {
       "id": "9",
       "name": "OpenPose",
-      "creator": "Carnegie Mellon University",
-      "tag": "Pose Estimation",
+      "creator": "CMU",
+      "tag": "Pose Est.",
       "versions_available": ["OpenPose"],
       "pricing": ["Free"],
       "profile_image_url": "https://example.com/openpose_profile_image.jpg",
@@ -146,7 +146,7 @@
     {
       "id": "12",
       "name": "VGG16",
-      "creator": "Visual Geometry Group (VGG)",
+      "creator": "(VGG)",
       "tag": "Computer Vision",
       "versions_available": ["VGG16"],
       "pricing": ["Free"],
