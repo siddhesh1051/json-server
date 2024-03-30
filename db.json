@@ -5,8 +5,16 @@
       "name": "BERT",
       "creator": "Google",
       "tag": "Text Generation",
-      "versions_available": ["BERT-base", "BERT-large"],
-      "pricing": ["Free", "Free"],
+      "versions": [
+        {
+          "version_name": "BERT-base",
+          "pricing": "Free"
+        },
+        {
+          "version_name": "BERT-large",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/bert_profile_image.jpg",
       "cover_image_url": "https://example.com/bert_cover_image.jpg",
       "likes": 785,
@@ -18,8 +26,16 @@
       "name": "YOLO",
       "creator": "Joseph Redmon",
       "tag": "Computer Vision",
-      "versions_available": ["YOLOv3", "YOLOv4"],
-      "pricing": ["Free", "Paid"],
+      "versions": [
+        {
+          "version_name": "YOLOv3",
+          "pricing": "Free"
+        },
+        {
+          "version_name": "YOLOv4",
+          "pricing": "Paid"
+        }
+      ],
       "profile_image_url": "https://example.com/yolo_profile_image.jpg",
       "cover_image_url": "https://example.com/yolo_cover_image.jpg",
       "likes": 620,
@@ -31,8 +47,12 @@
       "name": "DeepDream",
       "creator": "Google",
       "tag": "Image Generation",
-      "versions_available": ["DeepDream"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "DeepDream",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/deepdream_profile_image.jpg",
       "cover_image_url": "https://example.com/deepdream_cover_image.jpg",
       "likes": 370,
@@ -44,8 +64,12 @@
       "name": "CycleGAN",
       "creator": "Jun-Yan Zhu",
       "tag": "Image Generation",
-      "versions_available": ["CycleGAN"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "CycleGAN",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/cyclegan_profile_image.jpg",
       "cover_image_url": "https://example.com/cyclegan_cover_image.jpg",
       "likes": 820,
@@ -57,8 +81,12 @@
       "name": "GPT-2",
       "creator": "OpenAI",
       "tag": "Text Generation",
-      "versions_available": ["GPT-2.5"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "GPT-2.5",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/gpt2_profile_image.jpg",
       "cover_image_url": "https://example.com/gpt2_cover_image.jpg",
       "likes": 520,
@@ -70,8 +98,16 @@
       "name": "AlphaGo",
       "creator": "DeepMind",
       "tag": "Gaming",
-      "versions_available": ["AlphaGo Zero", "AlphaZero"],
-      "pricing": ["Free", "Free"],
+      "versions": [
+        {
+          "version_name": "AlphaGo Zero",
+          "pricing": "Free"
+        },
+        {
+          "version_name": "AlphaZero",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/alphago_profile_image.jpg",
       "cover_image_url": "https://example.com/alphago_cover_image.jpg",
       "likes": 420,
@@ -83,8 +119,12 @@
       "name": "Tesseract",
       "creator": "Google",
       "tag": "OCR",
-      "versions_available": ["Tesseract-OCR"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "Tesseract-OCR",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/tesseract_profile_image.jpg",
       "cover_image_url": "https://example.com/tesseract_cover_image.jpg",
       "likes": 670,
@@ -96,8 +136,12 @@
       "name": "WaveNet",
       "creator": "DeepMind",
       "tag": "Speech",
-      "versions_available": ["WaveNet"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "WaveNet",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/wavenet_profile_image.jpg",
       "cover_image_url": "https://example.com/wavenet_cover_image.jpg",
       "likes": 780,
@@ -109,8 +153,12 @@
       "name": "OpenPose",
       "creator": "CMU",
       "tag": "Pose Est.",
-      "versions_available": ["OpenPose"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "OpenPose",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/openpose_profile_image.jpg",
       "cover_image_url": "https://example.com/openpose_cover_image.jpg",
       "likes": 250,
@@ -122,8 +170,12 @@
       "name": "FastText",
       "creator": "Facebook",
       "tag": "Text Generation",
-      "versions_available": ["FastText"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "FastText",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/fasttext_profile_image.jpg",
       "cover_image_url": "https://example.com/fasttext_cover_image.jpg",
       "likes": 550,
@@ -135,8 +187,12 @@
       "name": "Pix2Pix",
       "creator": "Phillip Isola",
       "tag": "Image Generation",
-      "versions_available": ["Pix2Pix"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "Pix2Pix",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/pix2pix_profile_image.jpg",
       "cover_image_url": "https://example.com/pix2pix_cover_image.jpg",
       "likes": 430,
@@ -148,8 +204,12 @@
       "name": "VGG16",
       "creator": "(VGG)",
       "tag": "Computer Vision",
-      "versions_available": ["VGG16"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "VGG16",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/vgg16_profile_image.jpg",
       "cover_image_url": "https://example.com/vgg16_cover_image.jpg",
       "likes": 890,
@@ -161,8 +221,12 @@
       "name": "DeepFace",
       "creator": "Facebook",
       "tag": "Image Generation",
-      "versions_available": ["DeepFace"],
-      "pricing": ["Free"],
+      "versions": [
+        {
+          "version_name": "DeepFace",
+          "pricing": "Free"
+        }
+      ],
       "profile_image_url": "https://example.com/deepface_profile_image.jpg",
       "cover_image_url": "https://example.com/deepface_cover_image.jpg",
       "likes": 300,
@@ -174,8 +238,12 @@
       "name": "DALL-E",
       "creator": "OpenAI",
       "tag": "Image Generation",
-      "versions_available": ["DALL-E"],
-      "pricing": ["Paid"],
+      "versions": [
+        {
+          "version_name": "DALL-E",
+          "pricing": "Paid"
+        }
+      ],
       "profile_image_url": "https://example.com/dalle_profile_image.jpg",
       "cover_image_url": "https://example.com/dalle_cover_image.jpg",
       "likes": 720,
