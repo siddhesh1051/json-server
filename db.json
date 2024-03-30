@@ -17,7 +17,7 @@
       ],
       "profile_image_url": "https://example.com/bert_profile_image.jpg",
       "cover_image_url": "https://example.com/bert_cover_image.jpg",
-      "likes": 785,
+      "likes": 540,
       "views": 15234,
       "description": "NLP model for language understanding."
     },
@@ -38,7 +38,7 @@
       ],
       "profile_image_url": "https://example.com/yolo_profile_image.jpg",
       "cover_image_url": "https://example.com/yolo_cover_image.jpg",
-      "likes": 620,
+      "likes": 349,
       "views": 11250,
       "description": "Real-time object detection for images."
     },
@@ -89,7 +89,7 @@
       ],
       "profile_image_url": "https://example.com/gpt2_profile_image.jpg",
       "cover_image_url": "https://example.com/gpt2_cover_image.jpg",
-      "likes": 520,
+      "likes": 740,
       "views": 8900,
       "description": "Text generation with diverse applications."
     },
@@ -110,7 +110,7 @@
       ],
       "profile_image_url": "https://example.com/alphago_profile_image.jpg",
       "cover_image_url": "https://example.com/alphago_cover_image.jpg",
-      "likes": 420,
+      "likes": 720,
       "views": 7000,
       "description": "AI for mastering the game Go."
     },
@@ -144,7 +144,7 @@
       ],
       "profile_image_url": "https://example.com/wavenet_profile_image.jpg",
       "cover_image_url": "https://example.com/wavenet_cover_image.jpg",
-      "likes": 780,
+      "likes": 950,
       "views": 16800,
       "description": "Neural network for high-quality speech synthesis."
     },
